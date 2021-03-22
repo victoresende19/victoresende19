@@ -19,4 +19,4 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 ### Certificates
 Here in this github I often drop some projects and also some certificates! If you want, stay free to check them! 
 
-- 📂 [Certificates] 📂 (https://github.com/victoresende19/Certificates) 
+- 📂 [Certificates](https://github.com/victoresende19/Certificates) 📂
