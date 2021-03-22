@@ -1,5 +1,4 @@
 ### Hi there ✌
--------------------------------------------------------------------------------------------------
 
 I'm a 21 years old student from Brazil that's love to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. I love ducks! 
 
@@ -9,6 +8,7 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 - [LinkedIn](https://www.linkedin.com/in/victor-resende-508b75196/)
 
 
+-------------------------------------------------------------------------------------------------
 ### General Skills
 
 - 💻 Programming: Python, R, SQL and SAS
@@ -20,6 +20,7 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 
 - 📈 Regression Linear 
 - 📉 Regression Multivariate 
+-------------------------------------------------------------------------------------------------
 
 ### Certificates and Projects 
 
