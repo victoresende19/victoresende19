@@ -10,16 +10,18 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 
 ### General Skills
 
-- 💻 Programming 💻: Python, R, SQL and SAS
-- 📊 Data Visualization Tools 📊: Power BI and Tableau
-- 📚 Knowledges 📚: Statistic, Differential Calculus and Data Analytics
-- 📃 Reports 📃: LaTeX and Word
+- 💻 Programming: Python, R, SQL and SAS
+- 📊 Data Visualization Tools: Power BI and Tableau
+- 📚 Knowledges: Statistic, Differential Calculus and Data Analytics
+- 📃 Reports: LaTeX and Word
 
-### Machine Learning Skills  
-- 📈 Regression Linear 📈
-- 📉 Regression Multivariate 📉
+### Machine Learning Skills 
+
+- 📈 Regression Linear 
+- 📉 Regression Multivariate 
 
 ### Certificates and Projects 
+
 Here I often put some projects and also certificates! If you want, stay free to check them! 
 
-- 📂 [Certificates](https://github.com/victoresende19/Certificates) 📂
+- 📂 [Certificates](https://github.com/victoresende19/Certificates) 
