@@ -27,3 +27,6 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 Here I often put some projects and also certificates! If you want, stay free to check them! 
 
 - 📂 [Certificates](https://github.com/victoresende19/Certificates) 
+
+-------------------------------------------------------------------------------------------------
+![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
