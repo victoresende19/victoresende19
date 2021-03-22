@@ -10,7 +10,7 @@ To get in touch with me, stay on in my social medias
 
 
 ## General Skills
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 Some of my skills in this Data Science world
 - 💻 Programming: Python, R, SQL and SAS
 - 📊 Data Visualization Tools: Power BI and Tableau
@@ -19,18 +19,18 @@ Some of my skills in this Data Science world
 
 
 ## Machine Learning Skills 
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 Machine Learning models that I had studied until now
 - 📈 Regression Linear 
 - 📉 Regression Multivariate 
 
 
 ## Certificates and Projects 
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them! 
 
 - 📂 [Certificates](https://github.com/victoresende19/Certificates) 
 
 ## Visitor Count
--------------------------------------------------------------------------------------------------
+_________________________________________________________________________________________________
 ![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
