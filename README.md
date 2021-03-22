@@ -11,7 +11,7 @@ To get in touch with me, stay on in my social medias
 ## General Skills
 Some of my skills in this Data Science world
 - 💻 Programming: Python, R, SQL and SAS
-- 📊 Data Visualization Tools: Power BI and Tableau
+- 📊 Data Visualization Tools: Power BI, Tableau and Excel
 - 📚 Knowledges: Statistic, Differential Calculus and Data Analytics
 - 📃 Reports: LaTeX and Word
 
