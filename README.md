@@ -5,6 +5,7 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 ## Social Medias 
 To get in touch with me, stay on in my social medias
 - [LinkedIn](https://www.linkedin.com/in/victor-resende-508b75196/)
+- [Spotify](https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw)
 
 
 ## General Skills
