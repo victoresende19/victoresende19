@@ -21,6 +21,12 @@ Machine Learning models that I had studied until now
 - 📈 Regression Linear 
 - 📉 Regression Multivariate 
 
+## Projects 
+I'm always trying to study and doing some projects to apply them. Below you can check my best projects done until yet:
+- 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
+- 🧱 [Mars Environment and prediction by Curiosity REMS](https://github.com/victoresende19/marte)
+- 🧱 Majority group ENEM 2017 - 2019 (Brazil's entrance exam)
+
 
 ## Certificates and Projects 
 Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them! 
