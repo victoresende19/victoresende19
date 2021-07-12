@@ -24,7 +24,7 @@ Machine Learning models that I had studied until now
 ## Projects 
 I'm always trying to study and doing some projects to apply them. Below you can check my best projects done until yet:
 - 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
-- 🧱 [Mars Environment and prediction by Curiosity REMS](https://github.com/victoresende19/marte)
+- 🧱 [Mars Environment and prediction by Curiosity REMS](https://github.com/victoresende19/Mars_Curiosity)
 - 🧱 Majority group ENEM 2017 - 2019 (Brazil's entrance exam)
 
 
