@@ -23,6 +23,7 @@ Machine Learning models that I had studied until now
 
 ## Most used languages
 As a data scientist, I tend to program in languages that'll be helpful to solve statistics and business problems easier.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=White)
 
 ## Goals
