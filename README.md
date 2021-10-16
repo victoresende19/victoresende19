@@ -35,3 +35,6 @@ Here in this GitHub I often put some projects and also certificates! If you want
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
+
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact)
