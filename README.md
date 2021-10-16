@@ -4,7 +4,7 @@ I'm a 21 years old student from Brazil that's love to solve data problems! Curre
 ## Social Medias 
 To get in touch with me, stay on in my social medias
 
-<a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw)" target="_blank"><img src="https://img.shields.io/badge/-Spotify-%230077B5?style=for-the-badge&logo=spotify&logoColor=Green" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw)" target="_green"><img src="https://img.shields.io/badge/-Spotify-%230077B5?style=for-the-badge&logo=spotify&logoColor=Green" target="_green"></a> 
 
 - [LinkedIn](https://www.linkedin.com/in/victor-resende-508b75196/)
 - [Spotify](https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw)
