@@ -1,4 +1,6 @@
-(https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact)
+## Most used languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 
 ## Hi there ✌
 I'm a 21 years old student from Brazil that's love to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. I love ducks! 
