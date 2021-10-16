@@ -35,3 +35,8 @@ Here in this GitHub I often put some projects and also certificates! If you want
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
+
+<div align="center">
+  <a href="https://github.com/victoresend19">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoresend19&layout=compact&langs_count=7&theme=dracula"/>
+</div>
