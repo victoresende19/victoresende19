@@ -1,3 +1,5 @@
+(https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact)
+
 ## Hi there ✌
 I'm a 21 years old student from Brazil that's love to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. I love ducks! 
 
@@ -35,6 +37,3 @@ Here in this GitHub I often put some projects and also certificates! If you want
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
-
-##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact)
