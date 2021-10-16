@@ -24,8 +24,8 @@ Machine Learning models that I had studied until now
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula)
 
 ## Goals
-2020: Learn Python libraries to deploy a machine learning solution using streamlit, pandas, numpy, scikit learn and sqlalchemy. 
-2021: Learn R libraries as dplyr, tidyr, caret and stringr to improve my skills in my internship at [INEP](https://www.gov.br/inep/pt-br)
+- 2020: Learn Python libraries to deploy a machine learning solution using streamlit, pandas, numpy, scikit learn and sqlalchemy. 
+- 2021: Learn R libraries as dplyr, tidyr, caret and stringr to improve my skills in my internship at [INEP](https://www.gov.br/inep/pt-br)
 
 ## Projects 
 I'm always trying to study and doing some projects to apply them. Below you can check my best projects done until yet:
