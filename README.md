@@ -21,7 +21,7 @@ Machine Learning models that I had studied until now
 - 📉 Regression Multivariate 
 
 ## Most used languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=white)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=White)
 
 ## Goals
 - 2020: Learn Python libraries to deploy a machine learning solution using streamlit, pandas, numpy, scikit learn and sqlalchemy. ✅
