@@ -1,5 +1,5 @@
 ## Hi there ✌
-I'm a 21 years old student from Brazil that's love to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. At the period of 2021 to 2022, I'm working as an intern at [Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP)](https://www.gov.br/inep/pt-br) helping with some PowerBI, SAS and R solutions on educational policy research. I love ducks! 
+I'm a 21 years old student from Brazil that's love to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. At the period of 2021 to 2022, I'm working as an intern at [IBM](https://www.ibm.com/br-pt) helping with some PowerBI, SAS and R solutions on educational policy research. I love ducks! 
 
 ## Social Medias
 To get in touch with me, stay on in my social medias
