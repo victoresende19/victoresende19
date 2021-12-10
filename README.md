@@ -15,12 +15,6 @@ Some of my skills in this Data Science world
 - 📚 Knowledges: Statistic, Differential Calculus and Data Analytics
 - 📃 Reports: LaTeX and Word
 
-
-## Machine Learning Skills 
-Machine Learning models that I had studied until now
-- 📈 Regression Linear 
-- 📉 Regression Multivariate 
-
 ## Most used languages
 As a data scientist, I tend to program in languages that'll be helpful to solve statistics and business problems easier.
 
@@ -28,7 +22,7 @@ As a data scientist, I tend to program in languages that'll be helpful to solve 
 
 ## Goals
 - 2020: Learn Python libraries to deploy a machine learning solution using streamlit, pandas, numpy, scikit learn and sqlalchemy. ✅
-- 2021: Learn R libraries as dplyr, tidyr, caret and stringr to improve my skills in my internship at [INEP](https://www.gov.br/inep/pt-br). ⏳
+- 2021: Learn R libraries as dplyr, tidyr, caret and stringr to improve my skills in my internship at [INEP](https://www.gov.br/inep/pt-br). ✅
 
 ## Projects 
 I'm always trying to study and doing some projects to apply them. Below you can check my best projects done until yet:
