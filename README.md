@@ -8,13 +8,6 @@ To get in touch with me, stay on in my social medias
 
 <a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank"></a> 
 
-## General Skills
-Some of my skills in this Data Science world
-- 💻 Programming: Python, R, SQL and SAS
-- 📊 Data Visualization Tools: Power BI, Tableau and Excel
-- 📚 Knowledges: Statistic, Differential Calculus and Data Analytics
-- 📃 Reports: LaTeX and Word
-
 ## Most used languages
 As a data scientist, I tend to program in languages that'll be helpful to solve statistics and business problems easier.
 
