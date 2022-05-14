@@ -20,7 +20,7 @@ As a data scientist, I tend to program in languages that'll be helpful to solve 
 ## Projects 
 I'm always trying to study and doing some projects to apply them. Below you can check my best projects done until yet:
 - 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
-- 🧱 [Mars Environment and prediction by Curiosity REMS](https://github.com/victoresende19/Mars_Curiosity)
+- 🧱 [Mars Environment and prediction by Curiosity REMS API data](https://github.com/victoresende19/Mars_Curiosity)
 - 🧱 [Earthquakes Observatory](https://github.com/victoresende19/earthquakes)
 - 🧱 Majority group ENEM 2017 - 2019 (Brazil's entrance exam)
 
