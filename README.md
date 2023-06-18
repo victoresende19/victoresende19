@@ -2,6 +2,7 @@
 I'm a 22-year-old student from Brazil that loves to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. At the period of 2021 until now, I'm working with Full Stack Development and Data Science at [IBM-Brazil](https://www.ibm.com/br-pt). I love ducks!  
 
 ## Skills
+I'm focusing to improve my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
 - Python (Pandas, Matploblib, Numpy, and others): 4 years of experience
 - R: 3 years of experience
 - SQL/NoSQL: 3 years of experience
@@ -10,8 +11,6 @@ I'm a 22-year-old student from Brazil that loves to solve data problems! Current
 - EDA and Machine learning: 3 years of experience
 - PowerBI: 2 years of experience
 - Javascript/NodeJS (backend): 2 years of experience
-
-I'm focusing to improve my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints.
 
 
 ## Most used languages
