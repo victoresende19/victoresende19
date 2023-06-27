@@ -12,13 +12,6 @@ I'm focusing to improve my machine learning and deep learning skills even more. 
 - PowerBI: 2 years of experience
 - Javascript/NodeJS (backend): 2 years of experience
 
-
-## Most used languages
-As a goal to be a data scientist, I tend to program in languages that'll be helpful to solve statistics and business problems easier.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=White)
-
-
 ## Projects 
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects done until yet:
 - 🧱 [Earthquakes Observatory](https://github.com/victoresende19/earthquakes)
@@ -31,15 +24,23 @@ I'm always trying to study and do some projects to apply my skills. Below you ca
 
 ## Certificates and Prizes 
 Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them! 
-- 📂 [Certificates](https://github.com/victoresende19/Certificates)
+- 📂 [Certificates](https://github.com/victoresende19/Certificates):
   - [Credly](https://www.credly.com/users/victor-resende.72ace601/badges)
-- [Open Finance Hackathon Bradesco winner](https://bradescohackcup.com.br/index.html)
+- 🏆 Prizes:
+  - [Hackathon Open Finance Bradesco](https://bradescohackcup.com.br/index.html)
 
 
 ## Social Media
 To get in touch with me, stay on my social media
 
 <a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank"></a>
+
+
+## Most used languages
+As a goal to be a data scientist, I tend to program in languages that'll be helpful to solve statistics and business problems easier.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=White)
+
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
