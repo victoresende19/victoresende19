@@ -19,7 +19,7 @@ I'm always trying to study and do some projects to apply my skills. Below you ca
 - 🧱 [FireGuardian - Forest fire prediction by dry index](https://github.com/victoresende19/DryForestFire)
 - 🧱 [Mars Environment and prediction by Curiosity REMS API data](https://github.com/victoresende19/Mars_Curiosity)
 - 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
-- 🧱 [Pokemon Classifier - FastAPI endpoint for training and prediction](https://github.com/victoresende19/PokemonClusterClassifier)
+- 🧱 [Pokemon Type Classifier - FastAPI endpoints and React interface for training and prediction](https://github.com/victoresende19/PokemonClassifier)
 
 
 ## Certificates and Prizes 
