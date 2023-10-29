@@ -18,7 +18,7 @@ I'm focusing on improving my machine learning and deep learning skills even more
 ## Projects 
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects done until yet:
 - 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
-- 🧱 [SismoMap - An interactive platform to view and predict earthquakes - ](https://github.com/victoresende19/earthquakes)
+- 🧱 [SismoMap - An interactive platform to view and predict earthquakes](https://github.com/victoresende19/earthquakes)
 - 🧱 [SummsUp - Text summarization app](https://github.com/victoresende19/SummsUp)
 - 🧱 [FireGuardian - Forest fire prediction by dry index](https://github.com/victoresende19/DryForestFire)
 - 🧱 [Mars Environment and prediction by Curiosity REMS API data](https://github.com/victoresende19/Mars_Curiosity)
