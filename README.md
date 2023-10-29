@@ -1,20 +1,24 @@
 ## Hi there ✌
-I'm a 22-year-old student from Brazil that loves to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. At the period of 2021 until now, I'm working with Full Stack Development and Data Science at [IBM-Brazil](https://www.ibm.com/br-pt). I love ducks!  
+I'm a 23-year-old student from Brazil who loves to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. At the period of 2021 until now, I have been working with Full Stack Development and Data Science at [IBM-Brazil](https://www.ibm.com/br-pt). I love ducks!  
 
 ## Skills
-I'm focusing to improve my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
-- Python (Pandas, Matploblib, Numpy, and others): 4 years of experience
+I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
+- Python (Pandas, Matploblib, Numpy, and others): 5 years of experience
 - R: 3 years of experience
 - SQL/NoSQL: 3 years of experience
+- PySpark: 2 years of experience
 - SAS: 2 years of experience
 - PySpark: 2 years of experience
 - EDA and Machine learning: 3 years of experience
 - PowerBI: 2 years of experience
 - Javascript/NodeJS (backend): 2 years of experience
+- ReactJS: 1 year of experience
+- FastApi: 1 year of experience
 
 ## Projects 
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects done until yet:
-- 🧱 [Earthquakes Observatory](https://github.com/victoresende19/earthquakes)
+- 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
+- 🧱 [SismoMap - An interactive platform to view and predict earthquakes - ](https://github.com/victoresende19/earthquakes)
 - 🧱 [SummsUp - Text summarization app](https://github.com/victoresende19/SummsUp)
 - 🧱 [FireGuardian - Forest fire prediction by dry index](https://github.com/victoresende19/DryForestFire)
 - 🧱 [Mars Environment and prediction by Curiosity REMS API data](https://github.com/victoresende19/Mars_Curiosity)
