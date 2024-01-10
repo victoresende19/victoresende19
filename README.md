@@ -1,7 +1,7 @@
 ## Hi there ✌🦆
-I have a degree in data science and artificial intelligence. I am a 23-year-old who loves solving data problems! 5 years of experience working with Full Stack Development and Data Science at [IBM-Brasil](https://www.ibm.com/br-pt). I love ducks 🦆! 
+I have a degree in data science and artificial intelligence. I am a 23-year-old who loves solving data problems! 5 years of experience working with Full Stack Development and Data Science. Currently focused on end-to-end deliveries (development and data science) in the banking industry at [IBM-Brasil](https://www.ibm.com/br-pt). I love ducks 🦆! 
 
-## Skills
+## Skills 👨‍💻
 I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
 - Python (Pandas, Matploblib, Numpy, and others): 5 years of experience
 - R: 3 years of experience
@@ -15,8 +15,8 @@ I'm focusing on improving my machine learning and deep learning skills even more
 - ReactJS: 1 year of experience
 - FastApi: 1 year of experience
 
-## Projects 
-I'm always trying to study and do some projects to apply my skills. Below you can check my best projects done:
+## Projects 🧱
+I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
 - 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
 - 🧱 [SismoMap - An interactive platform to view and predict earthquakes](https://github.com/victoresende19/earthquakes)
 - 🧱 [SummsUp - A platform for summarization by text or PDF files](https://github.com/victoresende19/SummsUp)
@@ -26,22 +26,24 @@ I'm always trying to study and do some projects to apply my skills. Below you ca
 - 🧱 [Pokemon Type Classifier - FastAPI endpoints and React interface for training and prediction](https://github.com/victoresende19/PokemonClassifier)
 
 
-## Certificates and Prizes 
-Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them! 
+## Certificates and Prizes 📂🏆
+Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them 😃 
 - 📂 [Certificates](https://github.com/victoresende19/Certificates):
   - [Credly](https://www.credly.com/users/victor-resende.72ace601/badges)
 - 🏆 Prizes:
   - [Hackathon Open Finance Bradesco](https://bradescohackcup.com.br/index.html)
 
+## Curriculum 📄
+You can see and access my job experiences in my [curriculum](https://github.com/victoresende19/Curriculum)
 
-## Social Media
+## Social Media ☎️
 To get in touch with me, stay on my social media
 
 <a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank"></a>
 
 
 ## Most used languages
-As a goal to be a data scientist, I tend to program in languages that'll be helpful to solve statistics and business problems easier.
+As a goal to be a data scientist, I tend to program in languages that will help solve statistics and business problems more easily.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=White)
 
