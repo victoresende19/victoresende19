@@ -25,6 +25,8 @@ I'm always trying to study and do some projects to apply my skills. Below you ca
 - 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
 - 🧱 [Pokemon Type Classifier - FastAPI endpoints and React interface for training and prediction](https://github.com/victoresende19/PokemonClassifier)
 
+## Curriculum 📄
+You can see and access my job experiences in my [curriculum](https://github.com/victoresende19/Curriculum)
 
 ## Certificates and Prizes 📂🏆
 Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them 😃 
@@ -32,9 +34,6 @@ Here in this GitHub I often put some projects and also certificates! If you want
   - [Credly](https://www.credly.com/users/victor-resende.72ace601/badges)
 - 🏆 Prizes:
   - [Hackathon Open Finance Bradesco](https://bradescohackcup.com.br/index.html)
-
-## Curriculum 📄
-You can see and access my job experiences in my [curriculum](https://github.com/victoresende19/Curriculum)
 
 ## Social Media ☎️
 To get in touch with me, stay on my social media
