@@ -1,5 +1,5 @@
-## Hi there ✌
-I'm a 23-year-old student from Brazil who loves to solve data problems! Currently, I'm studying Data Science and Artificial Intelligence. At the period of 2021 until now, I have been working with Full Stack Development and Data Science at [IBM-Brazil](https://www.ibm.com/br-pt). I love ducks!  
+## Hi there ✌🦆
+I have a degree in data science and artificial intelligence. I am a 23-year-old who loves solving data problems! 5 years of experience working with Full Stack Development and Data Science at [IBM-Brasil](https://www.ibm.com/br-pt). I love ducks 🦆! 
 
 ## Skills
 I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
