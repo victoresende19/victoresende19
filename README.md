@@ -8,7 +8,6 @@ I'm focusing on improving my machine learning and deep learning skills even more
 - SQL/NoSQL: 3 years of experience
 - PySpark: 2 years of experience
 - SAS: 2 years of experience
-- PySpark: 2 years of experience
 - EDA and Machine learning: 3 years of experience
 - PowerBI: 2 years of experience
 - Javascript/NodeJS (backend): 2 years of experience
