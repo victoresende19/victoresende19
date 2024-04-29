@@ -18,6 +18,7 @@ I'm focusing on improving my machine learning and deep learning skills even more
 
 ## Projects 🧱
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
+- 🧱 [ProVoz - A platform that performs an analysis of the Brazil's consumer profile](https://github.com/victoresende19/ProVoz)
 - 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
 - 🧱 [SismoMap - An interactive platform to view and predict earthquakes](https://github.com/victoresende19/earthquakes)
 - 🧱 [SummsUp - A platform for summarization by text or PDF files](https://github.com/victoresende19/SummsUp)
