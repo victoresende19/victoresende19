@@ -1,5 +1,5 @@
 ## Hi there ✌🦆
-I have a degree in data science and artificial intelligence. I am a 23-year-old who loves solving data problems! 5 years of experience working with Full Stack Development and Data Science. Currently focused on end-to-end deliveries (development and data science) in the banking industry at [IBM-Brasil](https://www.ibm.com/br-pt). I love ducks 🦆! 
+I have a degree in data science and artificial intelligence. I am a 24-year-old who loves solving data problems! 5 years of experience working with Full Stack Development and Data Science. Currently focused on end-to-end deliveries (development and data science) in the banking industry at companies like [IBM Brazil](https://www.ibm.com/br-pt), [Alelo](https://www.alelo.com.br/) and [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). I love ducks 🦆! 
 
 ## Skills 👨‍💻
 I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
@@ -13,7 +13,7 @@ I'm focusing on improving my machine learning and deep learning skills even more
 - Javascript/NodeJS (backend): 2 years of experience
 - ReactJS: 1 year of experience
 - FastApi: 1 year of experience
-- LLM (Transformer, Hugging Face) and NLP: 2 years of experience
+- LLM (Generative AI, RAG, Transformer, Hugging Face) and NLP: 2 years of experience
 
 ## Projects 🧱
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
