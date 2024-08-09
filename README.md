@@ -4,16 +4,16 @@ I have a degree in data science and artificial intelligence. I am a 24-year-old 
 ## Skills 👨‍💻
 I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
 - Python (Pandas, Matploblib, Seaborn, Scikit-Learn Numpy, and others): 5 years of experience
-- LLM (Generative AI, RAG, Transformer, Hugging Face) and NLP: 2 years of experience
 - SQL/NoSQL: 3 years of experience
 - EDA and Machine learning (Classification, Regression, Clustering, Ensemble, Bagging): 3 years of experience
+- LLM (Generative AI, RAG, Transformer, Hugging Face) and NLP: 2 years of experience
 - PySpark: 2 years of experience
 - R: 2 years of experience
 - SAS: 2 years of experience
 - PowerBI: 2 years of experience
 - Javascript/NodeJS (backend): 2 years of experience
-- ReactJS: 1 year of experience
-- FastApi: 1 year of experience
+- ReactJS (frontend): 1 year of experience
+- FastAPI (backend): 1 year of experience
 
 ## Projects 🧱
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
