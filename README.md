@@ -1,55 +1,64 @@
 ## Hi there ✌🦆
-I have a degree in data science and artificial intelligence. I am a 24-year-old who loves solving data problems! 5 years of experience working with Full Stack Development and Data Science. Currently focused on end-to-end deliveries (development and data science) in the banking industry at companies like [IBM Brazil](https://www.ibm.com/br-pt), [Alelo](https://www.alelo.com.br/) and [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). I love ducks 🦆! 
+
+I'm a 24-year-old data science and AI enthusiast with a strong background in tackling data challenges! With 5 years of experience across Full Stack Development and Data Science, I’m currently dedicated to delivering end-to-end solutions in the banking sector, having collaborated with companies like [IBM Brazil](https://www.ibm.com/br-pt), [Alelo](https://www.alelo.com.br/), and [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). Also, I have a soft spot for ducks 🦆!
 
 ## Skills 👨‍💻
-I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
-- Python (Pandas, Matploblib, Seaborn, Scikit-Learn Numpy, and others): 5 years of experience
-- SQL/NoSQL: 4 years of experience
-- EDA and Machine learning (Classification, Regression, Clustering, Ensemble, Bagging): 4 years of experience
-- LLM (Generative AI, RAG, Transformer, Hugging Face, LangChain) and NLP: 3 years of experience
-- PySpark: 2 years of experience
-- R: 2 years of experience
-- SAS: 2 years of experience
-- PowerBI: 2 years of experience
-- Javascript/NodeJS (backend): 2 years of experience
-- FastAPI (backend): 2 year of experience
-- ReactJS (frontend): 2 year of experience
+
+I’m focused on honing my machine learning and deep learning expertise while learning FastAPI to deploy models as APIs:
+
+- **Python** (Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy, etc.): 5 years
+- **SQL/NoSQL Databases**: 4 years
+- **EDA & Machine Learning** (Classification, Regression, Clustering, Ensemble, Bagging): 4 years
+- **LLM & NLP** (Generative AI, RAG, Transformers, Hugging Face, LangChain): 3 years
+- **PySpark**: 2 years
+- **R**: 2 years
+- **SAS**: 2 years
+- **Power BI**: 2 years
+- **JavaScript/Node.js (Backend)**: 2 years
+- **FastAPI (Backend)**: 2 years
+- **React.js (Frontend)**: 2 years
 
 ## Projects 🧱
-I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
-- 🧱 [TobbacoCare - A platform to answer questions about smoking that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/TobaccoCare)
-- 🧱 [CEF Assistant - A platform to answer questions about the code of ethics and conduct for employees of Caixa Econômica Federal that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/CEF)
-- 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
-- 🧱 [Complains analysis - A platform to analyze complaints about a specific company on the Reclame aqui website. Webscrapping, Most Complained Topics and Raw Data (Python, NLP, Streamlit)](https://github.com/victoresende19/Complains)
-- 🧱 [ProVoz - A platform that performs an analysis of the Brazil's consumer profile](https://github.com/victoresende19/ProVoz)
-- 🧱 [SismoMap - An interactive platform to view and predict earthquakes](https://github.com/victoresende19/earthquakes)
-- 🧱 [SummsUp - A platform for summarization by text or PDF files](https://github.com/victoresende19/SummsUp)
-- 🧱 [FireGuardian - Forest fire prediction by dry index](https://github.com/victoresende19/DryForestFire)
-- 🧱 [Mars Environment and prediction by Curiosity REMS API data](https://github.com/victoresende19/Mars_Curiosity)
+
+Here are some of my favorite projects where I apply and expand my skills:
+
+- 🧱 [TobbacoCare](https://github.com/victoresende19/TobaccoCare) - A platform leveraging LLM and RAG to answer questions about smoking cessation (FastAPI, OpenAI, LangChain, React, GCP)
+- 🧱 [CEF Assistant](https://github.com/victoresende19/CEF) - A platform that utilizes LLM with RAG to answer questions on ethics and conduct for Caixa Econômica Federal employees (FastAPI, OpenAI, LangChain, React, GCP)
+- 🧱 [CineGuia](https://github.com/victoresende19/CineGuia) - A movie recommendation platform (FastAPI, React, GCP)
+- 🧱 [Complaints Analysis](https://github.com/victoresende19/Complains) - A platform to analyze complaints for a specific company on Reclame Aqui, including web scraping, topic analysis, and raw data (Pythom, Pandas, Streamlit)
+- 🧱 [ProVoz](https://github.com/victoresende19/ProVoz) - An analysis platform for Brazil’s consumer profiles (Pythom, Scikit-learn, Seaborn, Pandas, Streamlit)
+- 🧱 [SismoMap](https://github.com/victoresende19/earthquakes) - An interactive platform for earthquake prediction and visualization (Pythom, Sickit-learn, Pandas, Streamlit)
+- 🧱 [SummsUp](https://github.com/victoresende19/SummsUp) - A text/PDF file summarization platform (Pythom, Pandas, Transformer, LLM, Streamlit)
+- 🧱 [FireGuardian](https://github.com/victoresende19/DryForestFire) - Forest fire prediction using dry index analysis
+- 🧱 [Mars Environment & Prediction](https://github.com/victoresende19/Mars_Curiosity) - Using data from Curiosity’s REMS API for Mars environment analysis
 - 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
-- 🧱 [Pokemon Type Classifier - FastAPI endpoints and React interface for training and prediction](https://github.com/victoresende19/PokemonClassifier)
+- 🧱 [Pokemon Type Classifier](https://github.com/victoresende19/PokemonClassifier) - FastAPI endpoints and React interface for type prediction and training
 
 ## Curriculum 📄
-You can see and access my job experiences in my [curriculum](https://github.com/victoresende19/Curriculum)
 
-## Certificates and Prizes 📂🏆
-Here in this GitHub I often put some projects and also certificates! If you want, stay free to check them 😃 
+Access my professional experience in my [curriculum](https://github.com/victoresende19/Curriculum).
+
+## Certificates and Awards 📂🏆
+
+I regularly share project achievements and certifications here. Feel free to explore! 😃
 - 📂 [Certificates](https://github.com/victoresende19/Certificates):
   - [Credly](https://www.credly.com/users/victor-resende.72ace601/badges)
-- 🏆 Prizes:
+- 🏆 Awards:
   - [Hackathon Open Finance Bradesco](https://bradescohackcup.com.br/index.html)
 
 ## Social Media ☎️
-To get in touch with me, stay on my social media
 
-<a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href = "https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green" target="_blank"></a>
+Reach out on my social media:
 
+<a href="https://www.linkedin.com/in/victor-resende-508b75196/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://open.spotify.com/user/victorresende?si=BAsJ2nxXSxOjjRn8c3uUZw"><img src="https://img.shields.io/badge/-Spotify-%23333?style=for-the-badge&logo=spotify&logoColor=green"></a>
 
-## Most used languages
-As a goal to be a data scientist, I tend to program in languages that will help solve statistics and business problems more easily.
+## Most Used Languages
+
+I primarily work with languages that simplify solving statistical and business-related problems in data science.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victoresende19&layout=compact&theme=dracula&title_color=White)
 
-
 ## Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/{victoresende19}/count.svg)
