@@ -18,7 +18,7 @@ I'm focusing on improving my machine learning and deep learning skills even more
 ## Projects 🧱
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
 - 🧱 [TobbacoCare - A platform to answer questions about smoking that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/TobaccoCare)
-- 🧱 [CEF Assistant - A platform to answer questions about Code of ethics and conduct for employees of Caixa Econômica Federal that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/CEF)
+- 🧱 [CEF Assistant - A platform to answer questions about the code of ethics and conduct for employees of Caixa Econômica Federal that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/CEF)
 - 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
 - 🧱 [Complains analysis - A platform to analyze complaints about a specific company on the Reclame aqui website. Webscrapping, Most Complained Topics and Raw Data (Python, NLP, Streamlit)](https://github.com/victoresende19/Complains)
 - 🧱 [ProVoz - A platform that performs an analysis of the Brazil's consumer profile](https://github.com/victoresende19/ProVoz)
