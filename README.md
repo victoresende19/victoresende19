@@ -4,22 +4,24 @@ I have a degree in data science and artificial intelligence. I am a 24-year-old 
 ## Skills 👨‍💻
 I'm focusing on improving my machine learning and deep learning skills even more. Also, learning FastAPI to deploy models in endpoints:
 - Python (Pandas, Matploblib, Seaborn, Scikit-Learn Numpy, and others): 5 years of experience
-- SQL/NoSQL: 3 years of experience
-- EDA and Machine learning (Classification, Regression, Clustering, Ensemble, Bagging): 3 years of experience
-- LLM (Generative AI, RAG, Transformer, Hugging Face) and NLP: 2 years of experience
+- SQL/NoSQL: 4 years of experience
+- EDA and Machine learning (Classification, Regression, Clustering, Ensemble, Bagging): 4 years of experience
+- LLM (Generative AI, RAG, Transformer, Hugging Face, LangChain) and NLP: 3 years of experience
 - PySpark: 2 years of experience
 - R: 2 years of experience
 - SAS: 2 years of experience
 - PowerBI: 2 years of experience
 - Javascript/NodeJS (backend): 2 years of experience
-- ReactJS (frontend): 1 year of experience
-- FastAPI (backend): 1 year of experience
+- FastAPI (backend): 2 year of experience
+- ReactJS (frontend): 2 year of experience
 
 ## Projects 🧱
 I'm always trying to study and do some projects to apply my skills. Below you can check my best projects:
-- 🧱 [TobbacoCare - A platform to answer questions about smoking that uses LLM with RAG (FastAPI, OpenAI, React, GCP)](https://github.com/victoresende19/TobaccoCare)
-- 🧱 [ProVoz - A platform that performs an analysis of the Brazil's consumer profile](https://github.com/victoresende19/ProVoz)
+- 🧱 [TobbacoCare - A platform to answer questions about smoking that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/TobaccoCare)
+- 🧱 [CEF Assistant - A platform to answer questions about Code of ethics and conduct for employees of Caixa Econômica Federal that uses LLM with RAG (FastAPI, OpenAI, LangChain, React, GCP)](https://github.com/victoresende19/CEF)
 - 🧱 [CineGuia - A recommendation movie platform (FastAPI and React)](https://github.com/victoresende19/CineGuia)
+- 🧱 [Complains analysis - A platform to analyze complaints about a specific company on the Reclame aqui website. Webscrapping, Most Complained Topics and Raw Data (Python, NLP, Streamlit)](https://github.com/victoresende19/Complains)
+- 🧱 [ProVoz - A platform that performs an analysis of the Brazil's consumer profile](https://github.com/victoresende19/ProVoz)
 - 🧱 [SismoMap - An interactive platform to view and predict earthquakes](https://github.com/victoresende19/earthquakes)
 - 🧱 [SummsUp - A platform for summarization by text or PDF files](https://github.com/victoresende19/SummsUp)
 - 🧱 [FireGuardian - Forest fire prediction by dry index](https://github.com/victoresende19/DryForestFire)
