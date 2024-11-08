@@ -26,10 +26,10 @@ Here are some of my favorite projects where I apply and expand my skills:
 - 🧱 [CEF Assistant](https://github.com/victoresende19/CEF) - A platform that utilizes LLM with RAG to answer questions on ethics and conduct for Caixa Econômica Federal employees (FastAPI, OpenAI, LangChain, React, GCP)
 - 🧱 [CineGuia](https://github.com/victoresende19/CineGuia) - A movie recommendation platform (FastAPI, React, GCP)
 - 🧱 [SummsUp AI](https://github.com/victoresende19/SummsUpIA) -  A PDF file summarization platform (LLM OpenAI, LangChain, FastAPI and React)
-- 🧱 [Complaints Analysis](https://github.com/victoresende19/Complains) - A platform to analyze complaints for a specific company on Reclame Aqui, including web scraping, topic analysis, and raw data (Pythom, Pandas, Streamlit)
-- 🧱 [ProVoz](https://github.com/victoresende19/ProVoz) - An analysis platform for Brazil’s consumer profiles (Pythom, Scikit-learn, Seaborn, Pandas, Streamlit)
-- 🧱 [SismoMap](https://github.com/victoresende19/earthquakes) - An interactive platform for earthquake prediction and visualization (Pythom, Sickit-learn, Pandas, Streamlit)
-- 🧱 [SummsUp](https://github.com/victoresende19/SummsUp) - A text/PDF file summarization platform (Pythom, Pandas, Transformer, LLM, Streamlit)
+- 🧱 [Complaints Analysis](https://github.com/victoresende19/Complains) - A platform to analyze complaints for a specific company on Reclame Aqui, including web scraping, topic analysis, and raw data (Python, Pandas, Streamlit)
+- 🧱 [ProVoz](https://github.com/victoresende19/ProVoz) - An analysis platform for Brazil’s consumer profiles (Python, Scikit-learn, Seaborn, Pandas, Streamlit)
+- 🧱 [SismoMap](https://github.com/victoresende19/earthquakes) - An interactive platform for earthquake prediction and visualization (Python, Sickit-learn, Pandas, Streamlit)
+- 🧱 [SummsUp](https://github.com/victoresende19/SummsUp) - A text/PDF file summarization platform (Python, Pandas, Transformer, LLM, Streamlit)
 - 🧱 [FireGuardian](https://github.com/victoresende19/DryForestFire) - Forest fire prediction using dry index analysis
 - 🧱 [Mars Environment & Prediction](https://github.com/victoresende19/Mars_Curiosity) - Using data from Curiosity’s REMS API for Mars environment analysis
 - 🧱 [Brazil Covid Analysis](https://github.com/victoresende19/Brazil_covid_analysis)
