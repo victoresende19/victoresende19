@@ -24,8 +24,8 @@ Here are some of my favorite projects where I apply and expand my skills:
 
 - 🧱 [TobbacoCare](https://github.com/victoresende19/TobaccoCare) - A platform leveraging LLM and RAG to answer questions about smoking cessation (FastAPI, OpenAI, LangChain, React, GCP)
 - 🧱 [CEF Assistant](https://github.com/victoresende19/CEF) - A platform that utilizes LLM with RAG to answer questions on ethics and conduct for Caixa Econômica Federal employees (FastAPI, OpenAI, LangChain, React, GCP)
-- 🧱 [SummsUp AI](https://github.com/victoresende19/SummsUpIA) -  A text/PDF file summarization platform with LLM OpenAI and React
 - 🧱 [CineGuia](https://github.com/victoresende19/CineGuia) - A movie recommendation platform (FastAPI, React, GCP)
+- 🧱 [SummsUp AI](https://github.com/victoresende19/SummsUpIA) -  A text/PDF file summarization platform with LLM OpenAI and React
 - 🧱 [Complaints Analysis](https://github.com/victoresende19/Complains) - A platform to analyze complaints for a specific company on Reclame Aqui, including web scraping, topic analysis, and raw data (Pythom, Pandas, Streamlit)
 - 🧱 [ProVoz](https://github.com/victoresende19/ProVoz) - An analysis platform for Brazil’s consumer profiles (Pythom, Scikit-learn, Seaborn, Pandas, Streamlit)
 - 🧱 [SismoMap](https://github.com/victoresende19/earthquakes) - An interactive platform for earthquake prediction and visualization (Pythom, Sickit-learn, Pandas, Streamlit)
