@@ -1,6 +1,6 @@
 ## Hi there ✌🦆
 
-I'm a 24-year-old data science and AI enthusiast with a strong background in tackling data challenges! With 5 years of experience across Full Stack Development and Data Science, I’m currently dedicated to delivering end-to-end solutions in the banking sector, having collaborated with companies like [IBM Brazil](https://www.ibm.com/br-pt), [Alelo](https://www.alelo.com.br/), and [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). Also, I have a soft spot for ducks 🦆!
+I'm a 24-year-old data science and AI enthusiast with a strong background in tackling data challenges! With 5 years of experience across Full Stack Development and Data Science, I’m currently dedicated to delivering end-to-end solutions (etl, machine learning, generative AI, backend, frontend and cloud deploy) in the banking sector, having collaborated with companies like [IBM Brazil](https://www.ibm.com/br-pt), [Alelo](https://www.alelo.com.br/), and [Caixa Econômica Federal](https://www.caixa.gov.br/Paginas/home-caixa.aspx). Also, I have a soft spot for ducks 🦆!
 
 ## Skills 👨‍💻
 
