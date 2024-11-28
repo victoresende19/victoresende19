@@ -43,7 +43,7 @@ I regularly share project achievements and certifications here. Feel free to exp
 - 📂 [Certificates](https://github.com/victoresende19/Certificates):
   - [Credly](https://www.credly.com/users/victor-resende.72ace601/badges)
 - 🏆 Awards:
-  - [Hackathon Open Finance Bradesco](https://bradescohackcup.com.br/index.html)
+  - [Hackathon Open Finance Bradesco](https://www.azureacademy.com.br/eventos_HackBradesco/index.html#:~:text=O%20OPEN%20FINANCE%20HACKATHON%20tem,inova%C3%A7%C3%A3o%2C%20inclus%C3%A3o%20e%20colabora%C3%A7%C3%A3o%20multicultural.)
 
 ## Social Media ☎️
 
