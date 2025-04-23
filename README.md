@@ -6,7 +6,7 @@ I'm a 24-year-old data science and AI enthusiast with a strong background in tac
 - **Python** (Pandas, Matplotlib, Seaborn, Scikit-Learn, Numpy, etc.): 5 years
 - **SQL/NoSQL Databases**: 4 years
 - **EDA & Machine Learning** (Classification, Regression, Clustering, Ensemble, Bagging): 4 years
-- **LLM & NLP** (Generative AI, RAG, Transformers, Hugging Face, LangChain, Vector Databases): 3 years
+- **LLM & NLP** (Generative AI, RAG, Hugging Face, LangChain, LangGraph, OpenAI, Vector Databases): 3 years
 - **PySpark**: 2 years
 - **R**: 2 years
 - **SAS**: 2 years
