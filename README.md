@@ -20,6 +20,7 @@ I'm a 24-year-old data science and AI enthusiast with a strong background in tac
 Here are some of my favorite projects where I apply and expand my skills:
 
 - 🧱 [GravidAI](https://github.com/victoresende19/GravidAI) - A platform that uses LLM with RAG to answer questions about pregnancy and postpartum baby care (Python, TypeScript, FastAPI, OpenAI, LangChain, React, GCP)
+- 🧱 [TextToSQL](https://github.com/victoresende19/TextToSQL) - A platform to chat with your database with natural language (Python, TypeScript, Vite, FastAPI, OpenAI, Langgraph, Chormadb, Vercel, Render)
 - 🧱 [TobbacoCare](https://github.com/victoresende19/TobaccoCare) - A platform leveraging LLM and RAG to answer questions about smoking cessation (Python, TypeScript, FastAPI, OpenAI, LangChain, React, GCP)
 - 🧱 [CEF Assistant](https://github.com/victoresende19/CEF) - A platform that utilizes LLM with RAG to answer questions on ethics and conduct for Caixa Econômica Federal employees (Python, TypeScript,  FastAPI, OpenAI, LangChain, React, GCP)
 - 🧱 [CineGuia](https://github.com/victoresende19/CineGuia) - A movie recommendation platform (Python, TypeScript, FastAPI, React, GCP)
